@@ -64,6 +64,7 @@ In this project, when we excute the code then the game starts with a pop up. On 
 
 
 ## SWOT Analysis
+![images](https://user-images.githubusercontent.com/90717512/153726524-3e53a47c-2fbd-4b0c-bb47-4af5a02a6865.jpg)
 
 ![SWOT](https://user-images.githubusercontent.com/89648059/135571978-cdfdad96-7cb2-459b-9a01-5f76caa0839c.png)
 
