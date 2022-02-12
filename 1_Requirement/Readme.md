@@ -71,7 +71,7 @@ In this project, when we excute the code then the game starts with a pop up. On 
 - Stong Technologies java script, html, css
 - good interactive interface
 - Easy to use such as view, edit, delete, add information.
--can run without internet through offline storage
+- can run without internet
 
 #### Weaknesses
 
