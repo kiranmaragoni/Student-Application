@@ -17,9 +17,9 @@ Screens to design/develop to achieve the above functionality.
 1. Students List
 2. View Profile
 3. Add Student
-4. Edit Student The Jumbled Words Quiz In Python may be a basic venture for making a difference your kids grow in IQ. The extend contains as it were the client-side. The client can begin the test by clicking on the begin button. Too, you'll select the sort of words, you need to solve within the test. The client can alter jumbled words in case they don't know the proper word for them.
+4. Edit Student 
 
-This app or interface extend fair contains the client segment. The client has got to access the student information.
+This app or interface extend fair contains the University name and student list. The client has got to access the student information to edit , update, deltete, to view.
 
 ![image](https://user-images.githubusercontent.com/89724393/136598618-442021f2-e00b-4d6d-bf55-b2bf1d23733e.png)
 
@@ -38,9 +38,9 @@ This app or interface extend fair contains the client segment. The client has go
 
 ## Challenges Faced and How Was it Overcome
 
- 1. I have faced some challenge in implementing of main file. But by reffering multiple platform we solved the issue.
- 2.I have issues in java script implem and performing actions, but putting continous effort I resolved pytest.
- 3. Put muliple attempt for improvment code quality.
+ 1. I have faced some challenge in implementing of main file(student list). But by reffering multiple platform I solved the issue.
+ 2.I have issues in java script implementation and performing actions, but putting continous effort I resolved .
+ 3. Put muliple attempt for improvment for interface styles.
 
 ## Learning Resources
 
