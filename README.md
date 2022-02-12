@@ -16,8 +16,7 @@ Screens to design/develop to achieve the above functionality.
 4. Edit Student 
 
 This app or interface extend fair contains the University name and student list. The client has got to access the student information to edit , update, deltete, to view.
-
-![image](https://user-images.githubusercontent.com/89724393/136598618-442021f2-e00b-4d6d-bf55-b2bf1d23733e.png)
+![image](https://user-images.githubusercontent.com/90717512/153727510-b03cfc56-625c-44d4-a89f-1561e02dbb9a.png)
 
 
 | FOLDER              |                  DESCRPTION             |    
