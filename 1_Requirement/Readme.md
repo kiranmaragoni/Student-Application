@@ -14,7 +14,7 @@ Screens to design/develop to achieve the above functionality.
 3. Add Student
 4. Edit Student
 
-This app or interface extend fair contains the client segment. The client has got to press the begin button, then choose the field to play in the jumbled words will be shown on the screen and you have got to sort their correct frame. You'll be able to alter the words on the off chance that you're not able to figure the proper shape. Moreover, you'll be able to check the answer at, to begin with, in the event that you have the points.
+.
 
 ## Research
 
