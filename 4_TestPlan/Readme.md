@@ -3,12 +3,12 @@
 
 | Test ID | Description | Expected i/p | Expected o/p | Actual o/p | Status |
 | ---     | ---         | ---          | ---          | ---        | ---    |
-| `HRO1`  |  start the jumbled quiz | click start button | displaying menu list | displaying menu list | pass |
-| `HRO2`  | check if the menu displayed or not |select the one button in the menu  | redirect into the selected category |selected category displayed | pass |
+| `HRO1`  |  To see the students list in university | click on  student list| displaying student list | displaying student list | pass |
+| `HRO2`  | To Add student details to the list  |select the add student button on top of student list |  adding student |adding student | pass |
 | `HRO3`  | if we want to reach again on home page | click on back arrow button | home page | home page | pass |                                       
-| `HRO4`  | play the game what you choosed | type the assumed jumbled word | wrong answer | correct answer | fail |
-| `HRO5`  | if we want check answer we can select from menu | click on answer button | Answer will be displayed |  answer displayed points decreased by 5| pass |
-| `HRO6`  | if we want to change the word | click on change button | the jumble word changed | jumble word changed | pass |
+| `HRO4`  |To view  the individual student detail in list  | click on view profile | displayed student details | displayed student details | fail |
+| `HRO5`  | To edit student detail | click on edit button |edit form displayed |  edit form displayed| pass |
+| `HRO6`  | To update student detail | click on update button | update form displayed | update form displayed| pass |
 
 
 ## LOW LEVEL TEST PLAN
