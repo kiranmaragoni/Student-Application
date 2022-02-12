@@ -93,12 +93,12 @@ we can add ,delete, edit, update student details in this website.
 
 | ID    |                    DESCRIPTION                                           |CATEGORY|   STATUS  |
 |-------|--------------------------------------------------------------------------|--------|-----------|   
-| HR01  |   The Application should display Main Window to User.                    |Technical|IMPLEMENTED| 
-| HR02  |   The Application should display Menu to User.                           |Technical|IMPLEMENTED|                            
-| HR03  |   The Application should allow User to choose Menu.                      |Technical|IMPLEMENTED|
-| HR04 |   The Application should display score to User.                          |Technical|IMPLEMENTED|
-| HR05 |   After getting score,The application should display another jumble word.|Technical|IMPLEMENTED|
-| HR06  |   The Application should allow user to go back to main window.           |Technical|IMPLEMENTED|
+| HR01  |   The Application should display the list of all students in the university|Technical|IMPLEMENTED| 
+| HR02  |   The Application display to view details of individual students.        |Technical|IMPLEMENTED|                            
+| HR03  |   The Application allow to add new students to the university                    |Technical|IMPLEMENTED|
+| HR04 |   The Application allow to update students list                         |Technical|IMPLEMENTED|
+| HR05 |   The application will allow to delete existing students|Technical|IMPLEMENTED|
+
 
 
 
