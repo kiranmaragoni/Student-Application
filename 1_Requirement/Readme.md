@@ -76,7 +76,7 @@ In this project, when we excute the code then the game starts with a pop up. On 
 #### Weaknesses
 
 - lack of high security
-- 
+- storage issue
 
 #### Opportunities
 
@@ -88,7 +88,7 @@ In this project, when we excute the code then the game starts with a pop up. On 
 #### Threats
 
 - security issues 
-- 
+- storage dynamically
 
 
 ## 4W's and 1'H
@@ -130,7 +130,7 @@ we can add ,delete, edit, update student details in this website.
 
 | ID    |                    DESCRIPTION                                                           | HLR ID|   STATUS  |
 |-------|------------------------------------------------------------------------------------------|-------|------------|                                                    
-| LR01  |   The Application should display start button.                                           | HR02  |IMPLEMENTED|
+| LR01  |   The Application should display view details of individual students.     | HR02  |IMPLEMENTED|
 | LR02  |   The Application should show the jumbled word to user.                                  | HR03  |IMPLEMENTED| 
 | LR03  |   The Application should allow user to enter answer in textbox.                          | HR05  |IMPLEMENTED|
 | LR04  |   The Application should display whether the answer is correct or wrong to User.         | HR06  |IMPLEMENTED|
