@@ -1,9 +1,5 @@
 # Student-Application
 
-| BUILD     |                  TESTING             |   APP BUILDING     |   CODACY   |
-|---------------------|-----------------------------------------|---------------------------|-------------------------|
-| [![CI](https://github.com/GENESIS2021Q1/Applied_SDLC-Dec_Team_35/actions/workflows/main.yml/badge.svg)](https://github.com/GENESIS2021Q1/Applied_SDLC-Dec_Team_35/actions/workflows/main.yml)      |    [![Pytest](https://github.com/GENESIS2021Q1/Applied_SDLC-Sept_Team_11/actions/workflows/pytest.yml/badge.svg)](https://github.com/GENESIS2021Q1/Applied_SDLC-Dec_Team_35/actions/workflows/pytest.yml)    | (https://www.codacy.com/gh/3114-HM/JUMBLED-WORD-QUIZ/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=3114-HM/JUMBLED-WORD-QUIZ&amp;utm_campaign=Badge_Grade)  |
-
 ### Student-Application
 
 Going to build an application that is used to access student information. Users can use
