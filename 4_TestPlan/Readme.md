@@ -24,3 +24,4 @@
 | `LO6`  |Enter the word from menu rtactro |TrAcTor|tractor|tractor points:5|pass|
 | `LO7`  |Enter the word from menu rtactro |tractor  |tractor|tractor points:-5|pass|
 | `LO8`  |Enter the word from menu phantlee |--------- |elephant|elephant points:-5|pass|
+
