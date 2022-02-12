@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University Name</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+
+
+    <style>
+        body {
+            background: #67B26F;
+            /* fallback for old browsers */
+            background: -webkit-linear-gradient(to right, #4ca2cd, #67B26F);
+            /* Chrome 10-25, Safari 5.1-6 */
+            background: linear-gradient(to right, #4ca2cd, #67B26F);
+            /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+            padding: 0;
+            margin: 0;
+            font-family: 'Lato', sans-serif;
+            color: #000;
+        }
+        
+        .student-profile .table th,
+        .student-profile .table td {
+            font-size: 14px;
+            padding: 5px 10px;
+            color: #000;
+        }
+        
+        div.buttonSubmit input,
+        div.buttonSubmit span {
+            margin-left: 50px;
+        }
+        
+        $('table').on('click', 'input[type="button"]', function(e) {
+            $(this).closest('table').remove()
+        }
+        
+        )
+    </style>
+
+    <body>
+        <h1 class="bg-danger text-center text-white p-3 m-0">University Name</h1>
+        <nav class="bg-primary text-center p-2 m-0">
+            <a class="text-white p-3" href="#">HOME</a>
+            <a class="text-white p-3" href="#">ABOUT</a>
+            <a class="text-white p-3" href="#">CONTACT</a>
+            <a class="text-white p-3" href="#">HELP</a>
+        </nav>
+        <br>
+        <a class="text-white p-3" href="C:\Users\APPLE MAC 6767\Desktop\student information\students list.html">< Go to student's list</a>
+
+        <td>
+            <td>
+                <div>
+                    <button type="button" class="btn btn-primary" color="light-blue">Student's Profile</button></td>
+            </div>
+            </tr>
+            <a class="text-white p-3" href="#"><b>View Student Profile</a>
+            <p>
+                <b>
+    <b>
+  <table class="table">
+    <thead>
+        <tr>
+            <th scope="col"></th>
+            <th scope="col"></th>
+            <th scope="col"></th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">1.Student Name </th>
+            <td></td>
+            <td>srikanth</td>
+            <td></td>
+           
+        </tr>
+        <tr>
+            <th scope="row">2.Roll No</th>
+            <td></td>
+            <td>1102</td>
+            <td></td>
+            
+        </tr>
+        <tr>
+            <th scope="row">3.Gender</th>
+            <td></td>
+            <td>Male</td>
+            <td></td>
+           
+        </tr>
+           <tr>
+            <th scope="row">4.Email</th>
+            <td></td>
+            <td>sri.kanth@gmail.com</td>
+            <td></td>
+           
+        </tr>
+        <tr>
+            <th scope="row">5.Department</th>
+            <td></td>
+            <td>Development</td>
+            <td></td>
+          
+        </tr>
+        <tr>
+            <th scope="row">6.Summmary</th>
+            <td></td>
+            <td> something           </td>
+            <td></td>
+            
+        </tr>
+       
+    </tbody>
+    
+</table>
+ 
+ <button onclick="return confirm('Confirm delete forever? Are you sure you want to delete this student?');" 
+id="btnDelete">Delete student</button> 
+ 
+ <td> <input type="button" id="button2" value="Edit student" style="background-color: orange;" onclick="display_array();"></input>
+ 
+ 
+<footer>
+  <p>
+    <br>
+  <p><br>
+</footer>
+
+    <footer class="bg-dark text-center text-white p-2">
+     <p>©2022 University</p>
+    </footer>
+</body>
+</html>
