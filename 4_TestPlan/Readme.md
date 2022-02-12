@@ -11,21 +11,6 @@
 | `HRO6`  | To update student detail | click on update button | update form displayed | update form displayed| Implemented |
 
 
-## LOW LEVEL TEST PLAN
-
-
-## Low level requirements
-
-
-| ID    |                    DESCRIPTION                                                           | HLR ID|   STATUS  |
-|-------|------------------------------------------------------------------------------------------|-------|-----------|
-| LR01  |   The Application should allow User see the student list                      | HR01  |IMPLEMENTED|                                                    
-| LR02  |   The Application should display student list                                           | HR03  |IMPLEMENTED|
-| LR03  |   The Application should allow user to add student to the list.                                  | HR05  |IMPLEMENTED| 
-| LR04  |   The Application should allow user to edit the invidual student detail.                          | HR05  |IMPLEMENTED|
-| LR05  |   The Application should display the student individual profile .         | HR06  |IMPLEMENTED|
-| LR06  |   The Application should allow to user deltete student detail.                         | HR07  |IMPLEMENTED|
-| LR07  |   The Application should allow user to go back to student list.                      | HR08  |IMPLEMENTED|
 
 ## LOW LEVEL TEST PLAN
 
