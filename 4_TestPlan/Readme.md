@@ -27,3 +27,13 @@
 | LR06  |   The Application should allow to user deltete student detail.                         | HR07  |IMPLEMENTED|
 | LR07  |   The Application should allow user to go back to student list.                      | HR08  |IMPLEMENTED|
 
+## LOW LEVEL TEST PLAN
+
+
+| Test ID | Description | Expected i/p | Expected o/p | Actual o/p | Status |
+| ---     | ---         | ---          | ---          | ---        | ---    |
+| `LO1`   | The Application should allow User see the student list  | click on student list | displayed student list |displayed student list | pass |
+| `LO2`   |  The Application should allow user to add student to the list. |click on add student| add form displayed| add form displayed | pass | 
+| `LO3`   |  The Application should allow user to edit the invidual student detail.  | select edit button| edit form displayed to edit  | edit form displayed to edit |pass |
+| `LO4`   |The Application should allow to user deltete student detail.  | click on delete button to delete | delete student details | delete student list| pass |
+| `LO5`  |The Application should allow user to go back to student list.| click on go to student list  | goes back to student list | goes back to student list| fail |
