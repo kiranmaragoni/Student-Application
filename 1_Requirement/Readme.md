@@ -18,20 +18,20 @@ This app or interface extend fair contains the client segment. The client has go
 
 ## Research
 
-Write a function jumble_decode that takes a jumbled word as an input parameter.
-It will generate all the anagrams for that jumbled word using the anagrams function (see below).
 
-
-Use a "dictionary file" (a text file listing all known English words) to filter out the the anagrams that are valid English words.
-
-
-This function must return a list of of valid English words. Please do not print the results.
-
-
-Write a function anagrams that will generate all the anagrams for a given word (in our case, we'll be providing it jumbled words. This function:
-must use recursion to solve for the anagrams!
-
-must return a Python list of all generated anagrams (regardless of whether they are valid English words).
+●  Using Javascript, HTML and CSS to build the website. (You can also make use of any
+Javascript frameworks like Angular, ReactJS etc…)
+● You can use HTML5 localStorage or implement your own backend( if you have
+expertise) to store the student data.
+● You can take the wireframe pdf as a design reference. You can add styles (colors,
+animations) of your choice to make the app look appealing.
+● Implement the Student’s list view with HTML.
+● All fields in the Add/Edit student forms are mandatory.
+● Add form validations to check if all the fields are filled by the user before submitting the
+form.
+● Add validations to the fields to accept relevant data.
+○ “Roll No” field should accept only numbers.
+○ “Email” field should accept valid email.
 
 
 ## Cost and Features and Timeline
@@ -66,7 +66,29 @@ In this project, when we excute the code then the game starts with a pop up. On 
 ## SWOT Analysis
 ![images](https://user-images.githubusercontent.com/90717512/153726524-3e53a47c-2fbd-4b0c-bb47-4af5a02a6865.jpg)
 
-![SWOT](https://user-images.githubusercontent.com/89648059/135571978-cdfdad96-7cb2-459b-9a01-5f76caa0839c.png)
+#### Strengths
+
+- Stong Technologies java script, html, css
+- good interactive interface
+- Easy to use such as view, edit, delete, add information.
+-can run without internet through offline storage
+
+#### Weaknesses
+
+- lack of high security
+- 
+
+#### Opportunities
+
+- Technical advancements
+- product improvement
+- significant and improved process
+
+
+#### Threats
+
+- security issues 
+- 
 
 
 ## 4W's and 1'H
