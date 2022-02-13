@@ -20,9 +20,9 @@ Screens to design/develop to achieve the above functionality.
 ## Research
 
 
-●  Using Javascript, HTML and CSS to build the website. (You can also make use of any
+-  Using Javascript, HTML and CSS to build the website. (You can also make use of any
 Javascript frameworks like Angular, ReactJS etc…).
-● You can use HTML5 localStorage or implement your own backend( if you have
+- You can use HTML5 localStorage or implement your own backend( if you have
 expertise) to store the student data.
 ● You can take the wireframe pdf as a design reference. You can add styles (colors,
 animations) of your choice to make the app look appealing.
