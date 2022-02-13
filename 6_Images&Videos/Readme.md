@@ -8,3 +8,7 @@
 ![individuall detail](https://user-images.githubusercontent.com/90717512/153740708-89fa0a45-083f-4c8b-b8d9-80f93a9029c5.png)
 ## validation Roll No and Email
 ![validation](https://user-images.githubusercontent.com/90717512/153741040-216cc093-d575-4d29-8e28-8847fa59b304.png)
+
+
+https://user-images.githubusercontent.com/90717512/153752898-3898039c-3983-4e15-96f0-753774db18d7.mp4
+
