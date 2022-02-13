@@ -36,8 +36,8 @@ This app or interface extend fair contains the University name and student list.
 ## Challenges Faced and How Was it Overcome
 
  1. I have faced some challenge in implementing of main file(student list). But by reffering multiple platform I solved the issue.
- 2.I have issues in java script implementation and performing actions, but putting continous effort I resolved .
- 3. Put muliple attempt for improvment for interface styles.
+ 2. I have issues in java script implementation and performing actions, but putting continous effort I resolved .
+ 3. Put muliple attempt for improvment for interface styles. Used mostly html,css and java script depending upon requirement.
 
 ## Learning Resources
 
