@@ -19,17 +19,17 @@ Screens to design/develop to achieve the above functionality.
 ## Research
 
 
-●  Using Javascript, HTML and CSS to build the website. (You can also make use of any
+- Using Javascript, HTML and CSS to build the website. (You can also make use of any
 Javascript frameworks like Angular, ReactJS etc…)
-● You can use HTML5 localStorage or implement your own backend( if you have
+- You can use HTML5 localStorage or implement your own backend( if you have
 expertise) to store the student data.
-● You can take the wireframe pdf as a design reference. You can add styles (colors,
+- You can take the wireframe pdf as a design reference. You can add styles (colors,
 animations) of your choice to make the app look appealing.
-● Implement the Student’s list view with HTML.
-● All fields in the Add/Edit student forms are mandatory.
-● Add form validations to check if all the fields are filled by the user before submitting the
+- Implement the Student’s list view with HTML.
+- All fields in the Add/Edit student forms are mandatory.
+- Add form validations to check if all the fields are filled by the user before submitting the
 form.
-● Add validations to the fields to accept relevant data.
+- Add validations to the fields to accept relevant data.
 ○ “Roll No” field should accept only numbers.
 ○ “Email” field should accept valid email.
 
@@ -54,6 +54,7 @@ form.
 | 3.Implementation        | 07/02/22             |   12/02/22             |   5 days       |
 | 4.Testing               | 12/02/22             |  12/02/22              |   1day       |
 
+
       
       
       
@@ -61,7 +62,7 @@ form.
       
 ## Defining Our System
 
-This app or interface extend fair contains the University name and student list. The client has got to access the student information to edit , update, deltete, to view
+This app or interface extend fair contains the University name and student list. The client has got to access the student information to edit , update, deltete, to view indvidual student profile and edit.
  
 
 
