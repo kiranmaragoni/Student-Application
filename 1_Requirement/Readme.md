@@ -40,7 +40,7 @@ form.
 |Type of cost         | Expected cost      |  Actual cost     |
 |---------------------|--------------------|------------------|
 |Hardware             |       -            |       -          |
-|Software             | open source        | open source      |
+|Software             | visual studio code      | visual studio code     |
 |Training             |       -            |      -           | 
 |others               |       -             |      -           |    
        
@@ -60,7 +60,7 @@ form.
       
       
 ## Defining Our System
-In this project, when we excute the code then the game starts with a pop up. On that pop up click on start. when the game starts, client have to select the categories like Animals, Body parts, Colour, Fruits, Shapes, Vegetables, Vehicles etc. click on the category that client wants to play. client get jumbled word of selected category and they have to answer the jumbled word in text box. If client identify the correct answer, we write it in text box and click on submit, then client get a pop up window "correct answer keep it up" and they also get score. If our answer is wrong, in pop up window they get "incorrect answer try your best" and as our answer is wrong then no score will be given. If client does not understand the jumbled word there will be option of changing the word. if client wants to know the answer they have an option answer when they click on it answer will be displayed by decreasing the score.This jumbled word quiz helps to improve IQ level.  
+ 
 
 
 ## SWOT Analysis
