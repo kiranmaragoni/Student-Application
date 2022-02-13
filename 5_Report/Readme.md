@@ -24,13 +24,13 @@ Screens to design/develop to achieve the above functionality.
 Javascript frameworks like Angular, ReactJS etc…).
 - You can use HTML5 localStorage or implement your own backend( if you have
 expertise) to store the student data.
-● You can take the wireframe pdf as a design reference. You can add styles (colors,
+- You can take the wireframe pdf as a design reference. You can add styles (colors,
 animations) of your choice to make the app look appealing.
-● Implement the Student’s list view with HTML.
-● All fields in the Add/Edit student forms are mandatory.
-● Add form validations to check if all the fields are filled by the user before submitting the
+- Implement the Student’s list view with HTML.
+- All fields in the Add/Edit student forms are mandatory.
+- Add form validations to check if all the fields are filled by the user before submitting the
 form.
-● Add validations to the fields to accept relevant data.
+- Add validations to the fields to accept relevant data.
 ○ “Roll No” field should accept only numbers.
 ○ “Email” field should accept valid email.
 
