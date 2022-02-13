@@ -32,7 +32,6 @@ This app or interface extend fair contains the University name and student list.
 
 
 
-
 ## Challenges Faced and How Was it Overcome
 
  1. I have faced some challenge in implementing of main file(student list). But by reffering multiple platform I solved the issue.
