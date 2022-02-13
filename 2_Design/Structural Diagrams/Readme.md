@@ -1,7 +1,8 @@
 # ARCHITECTURE
 ## High Level Architecture
+![Untitled Workspace (3)](https://user-images.githubusercontent.com/90717512/153744588-d8a7903d-ed4f-4ae2-ba92-e2959ec03c07.png)
 
-![STRUCTUAL DIAGRAM ](https://user-images.github
+
 ## Low Level Architecture
 
 
