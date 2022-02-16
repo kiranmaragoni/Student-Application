@@ -46,4 +46,4 @@ This app or interface extend fair contains the University name and student list.
  
 
 
-_[Manual to run project](https://github.com/kiranmaragoni/M1_App_Billing_System/tree/main/3_Implementation)_
+_[Manual to run project]
