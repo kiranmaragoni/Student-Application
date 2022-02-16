@@ -199,10 +199,8 @@ we can add ,delete, edit, update student details in this website.
 ## validation Roll No and Email
 ![validation](https://user-images.githubusercontent.com/90717512/153741040-216cc093-d575-4d29-8e28-8847fa59b304.png)
 
+# video
 
-
-
-   
-
+https://user-images.githubusercontent.com/90717512/154209606-0b5ca06e-41b1-4476-8760-ccc684dac14d.mp4
 
 
