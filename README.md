@@ -46,4 +46,4 @@ This app or interface extend fair contains the University name and student list.
  
 
 
-_[Manual to run project]
+
